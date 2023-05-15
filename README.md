@@ -37,11 +37,11 @@ Aşağıdaki adımları izleyerek proje yerel bir ortamda çalıştırılabilir:
 
 ## Preview
 
-[](https://i.imgur.com/FcVsypO.png)
+![](https://i.imgur.com/FcVsypO.png)
 
-[](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE1OWRkN2ZmNmRmZWU2Y2U2NzA2MzRkMDY0MTUyMGU1NmMwOTBjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iPRssf1bNgr6p8I3cf/giphy.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE1OWRkN2ZmNmRmZWU2Y2U2NzA2MzRkMDY0MTUyMGU1NmMwOTBjNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iPRssf1bNgr6p8I3cf/giphy.gif)
 
-[](https://media.giphy.com/media/xkWXqtJBXutJvYv6FD/giphy.gif)
+![](https://media.giphy.com/media/xkWXqtJBXutJvYv6FD/giphy.gif)
 
 ## Katkıda Bulunma
 
