@@ -22,8 +22,8 @@ Canlı demo [buradan](https://picturesearcher.netlify.app/) görülebilir.
 
 Aşağıdaki adımları izleyerek proje yerel bir ortamda çalıştırılabilir:
 
-1. Bu depoyu klonlayın: `git clone https://github.com/kullanici/image-searcher.git`
-2. Klonlanan dizine gidin: `cd image-searcher`
+1. Bu depoyu klonlayın: `git clone https://github.com/alpdevelop/Find-Picture.git`
+2. Klonlanan dizine gidin: `cd "Find Picture"`
 3. Unsplash sitesine giderek kendi API keyinizi oluşturunuz.
 4. API almak için [Unsplash.com](https://unsplash.com/developers) ve Doc için [Documentation(unsplash)](https://unsplash.com/documentation)
 
@@ -45,7 +45,7 @@ Aşağıdaki adımları izleyerek proje yerel bir ortamda çalıştırılabilir:
 
 ## Katkıda Bulunma
 
-Eğer bu uzantıyı geliştirmek isterseniz veya bir sorunla karşılaşırsanız, lütfen GitHub sayfamızı ziyaret edin ve bir sorun bildirin veya pull request gönderin.
+Eğer bu uygulamayı geliştirmek isterseniz veya bir sorunla karşılaşırsanız, bir sorun bildirin veya pull request gönderin.
 
 <a href="https://www.buymeacoffee.com/alpkavas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
